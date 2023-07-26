@@ -47,8 +47,9 @@ Throughout the six weeks, I meticulously planned and executed my project, which 
 ## Technologies Used
 
 - Python
-- Machine Learning Model
+- Machine Learning Model (Regression Model, RandomForest Model, etc.)
 - Jupyter notebook
+- Deep Learning Model (CNN Model)
 - Flask & Joblib Framework
 
 ## Contributing
